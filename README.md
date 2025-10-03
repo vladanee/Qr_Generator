@@ -42,18 +42,6 @@ Run the script:
 python qr_pdf.py
 
 
-Find results in:
-
-qrcodes/ → individual PNG & SVG QR codes.
-
-qr_codes_sheet.pdf → combined PDF sheet with all codes and URLs.
-
-🖼️ Example Output
-
-QR Codes (PNG & SVG) with centered logo and white border.
-
-PDF Sheet → 3 QR codes per row, URLs neatly aligned below each code.
-
 🛠️ Requirements
 
 Dependencies are listed in requirements.txt:
@@ -62,7 +50,6 @@ qrcode
 pillow
 reportlab
 svglib
-
 
 Install them with:
 
