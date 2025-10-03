@@ -2,17 +2,6 @@ QR Code Generator with Logo & PDF Export
 
 This Python script generates QR codes with a centered logo (with a clean white border for better visibility) and exports them both as individual PNG/SVG files and as a multi-page PDF sheet.
 
-📂 Project Structure
-qr-code-generator/
-│
-├── qr_pdf.py          # Main script
-├── README.md          # Documentation
-├── requirements.txt   # Dependencies
-├── purl_links.csv     # Example input file with URLs
-├── logo.png           # Example logo used in QR codes
-├── qrcodes/           # Generated QR codes (PNG & SVG)
-└── qr_codes_sheet.pdf # Generated PDF with all QR codes
-
 ⚙️ Features
 
 ✅ Generate QR codes from a list of URLs (CSV or TXT).
